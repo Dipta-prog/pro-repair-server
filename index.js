@@ -144,7 +144,7 @@ client.connect(err => {
             $set: {orderStatus: req.body.updatedOrderStatus}
         })
             .then(result=>{
-                // console.log(result);
+                console.log(result);
             })
 
     });
