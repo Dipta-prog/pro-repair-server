@@ -1,7 +1,7 @@
 Website Name: PRO REPAIR
-Client side code: https://github.com/Porgramming-Hero-web-course/complete-website-client-Dipta-prog
+Client side code: https://github.com/Dipta-prog/pro-repair-client
 
-Server side code: https://github.com/Porgramming-Hero-web-course/complete-website-server-Dipta-prog
+Server side code: https://github.com/Dipta-prog/pro-repair-server
 
 Website: https://pro-repair-service.web.app
 
